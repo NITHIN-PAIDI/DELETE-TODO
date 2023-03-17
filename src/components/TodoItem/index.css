@@ -1,0 +1,14 @@
+.descrption {
+  font-size: 20px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: #ffff;
+  border-style: solid;
+  border-color: #ff8542;
+  border-radius: 8px;
+  margin: 10px;
+}
